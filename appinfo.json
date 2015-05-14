@@ -3,7 +3,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "james.j.downs@gmail.com",
+    "companyName": "James Downs",
     "longName": "Color Map",
     "projectType": "native",
     "resources": {
@@ -11,9 +11,12 @@
     },
     "sdkVersion": "3",
     "shortName": "Color Map",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "304b2bc1-b04a-426b-af81-77e9ae102349",
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
